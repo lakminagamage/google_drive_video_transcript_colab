@@ -1,6 +1,6 @@
 # Google Drive Video Transcriber
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/drive_video_transcriber.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1OlqmNquOI81OhFptrFSY0CD8pJUkT1hM?usp=sharing)
 
 Transcribe any public Google Drive video to text using **faster-whisper large-v3 or tyny-whisper** running on a free Colab T4 GPU.
 
